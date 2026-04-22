@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It is test of the AND gate
 
 ## How to test
 
-Explain how to use your project
+Use input 1 and 2 and see the answer in output 1
 
 ## External hardware
 
